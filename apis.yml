@@ -1,0 +1,88 @@
+aid: seedcamp
+name: Seedcamp
+description: >-
+  Seedcamp is Europe's original first-cheque seed fund, founded in May 2007 and
+  headquartered in London, United Kingdom. It backs founders from day one,
+  writing first cheques primarily at the pre-seed and seed stages (typically
+  between roughly $350,000 and $1 million) and following winners into later
+  rounds through its Select fund toward Series B and beyond. Seedcamp is broadly
+  sector-agnostic across software and technology, with concentrations in
+  artificial intelligence, fintech, healthtech, cybersecurity, open-source,
+  enterprise software, and developer tools. In June 2026 the firm announced it
+  had raised $320 million — $220 million for Seedcamp VII (its flagship first
+  cheque fund) and $100 million for the Select fund — pushing assets under
+  management past $1 billion. The "Seedcamp Nation" now spans 500-plus companies,
+  including publicly listed UiPath and Wise and unicorns such as Revolut,
+  Synthesia, Sorare, Pleo, wefox, and viz.ai. Seedcamp Investment Management LLP
+  is authorised and regulated by the UK Financial Conduct Authority.
+image: https://seedcamp.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+tags:
+  - Venture Capital
+  - Seed
+  - Pre-Seed
+  - Artificial Intelligence
+  - Fintech
+  - Developer Tools
+  - Europe
+  - London
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://seedcamp.com/
+  - type: Portfolio
+    url: https://seedcamp.com/companies/
+  - type: Portfolio
+    url: portfolio/seedcamp-portfolio.yml
+  - type: Team
+    url: https://seedcamp.com/our-team/
+  - type: Team
+    url: team/seedcamp-team.yml
+  - type: InvestmentThesis
+    url: https://seedcamp.com/about-us/
+  - type: Blog
+    url: https://seedcamp.com/views/
+  - type: News
+    url: https://seedcamp.com/views/
+  - type: Podcast
+    url: https://seedcamp.com/seedcamp-nation/
+  - type: Pitch
+    url: https://seedcamp.com/pitch-us/
+  - type: Jobs
+    url: https://talent.seedcamp.com/companies
+  - type: Contact
+    url: https://seedcamp.com/contact-us/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/seedcamp
+  - type: LinkedIn
+    url: https://uk.linkedin.com/company/seedcamp_2
+  - type: Twitter
+    url: https://x.com/seedcamp
+  - type: Features
+    data:
+      - 'Stage: Pre-seed, Seed (first cheque); follow-on to Series B via Select fund'
+      - 'Typical check: $350K–$1M first cheque'
+      - 'Sectors: AI, fintech, healthtech, cybersecurity, open-source, enterprise software, developer tools'
+      - 'Geography: Europe (and European founders attacking global markets)'
+      - 'AUM: $1B+ (self-reported, June 2026)'
+      - 'Latest funds: $220M Seedcamp VII + $100M Select (June 2026)'
+      - 'Portfolio: 500+ companies (Seedcamp Nation)'
+      - 'Founded: 2007'
+      - 'HQ: London, United Kingdom'
+    sources:
+      - https://seedcamp.com/about-us/
+      - https://www.businesswire.com/news/home/20260622584739/en/Europes-Original-First-Check-Investor-Seedcamp-Raises-$320-Million
+      - https://en.wikipedia.org/wiki/Seedcamp
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Seedcamp
+    url: https://seedcamp.com
