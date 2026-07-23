@@ -3,320 +3,359 @@ method: searched
 source: https://seedcamp.com/companies/
 summary:
   portfolio_total: 316
-  in_network: 39
-  api_providers: 32
-  missing: 277
+  in_network: 316
+  api_providers: 74
+  missing: 0
   stubs_created: 0
 companies:
 - name: Cookieyes
   url: https://www.cookieyes.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cookieyes
+  slug: cookieyes
+  matched_by: domain
 - name: Gaia
   url: https://seedcamp.com/company/gaia/
   description: Affordable financing and support for starting a family (fertility)
   sector: healthtech
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gaia
+  slug: seedcamp
+  matched_by: domain
 - name: Sorare
   url: https://seedcamp.com/company/sorare/
   description: Fantasy sports game built on NFTs and cryptocurrency
   sector: gaming
   status: unknown
   source: https://seedcamp.com/companies/
-  slug: sorare
+  slug: seedcamp
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: Pleo
   url: https://seedcamp.com/company/pleo/
   description: Business expense management and company cards
   sector: fintech
   status: unknown
   source: https://seedcamp.com/companies/
-  slug: pleo
+  slug: seedcamp
   in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  is_api_provider: false
+  matched_by: domain
 - name: Revolut
   url: https://seedcamp.com/company/revolut/
   description: Digital banking and financial super-app
   sector: fintech
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: revolut
+  slug: seedcamp
+  matched_by: domain
 - name: Vinterior
   url: https://seedcamp.com/company/vinterior/
   description: Online marketplace for vintage and antique furniture
   sector: marketplace
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vinterior
+  slug: seedcamp
+  matched_by: domain
 - name: Grover
   url: https://seedcamp.com/company/grover/
   description: Consumer tech rental subscription service
   sector: consumer
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: grover
+  slug: seedcamp
+  matched_by: domain
 - name: Waniwani
   url: http://waniwani.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: waniwani
+  slug: waniwani
+  matched_by: domain
 - name: Eversettled
   url: http://eversettled.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eversettled
+  slug: eversettled
+  matched_by: domain
 - name: Resolyst
   url: http://resolyst.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: resolyst
+  slug: resolyst
+  matched_by: domain
 - name: Opereit
   url: http://opereit.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: opereit
+  in_network: true
+  is_api_provider: true
+  slug: opereit
+  matched_by: domain
 - name: Lupin & Holmes
   url: http://landh.tech
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lupin-and-holmes
+  slug: lupin-and-holmes
+  matched_by: domain
 - name: sherpa
   url: http://sherpahq.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sherpa
+  slug: sherpa
+  matched_by: domain
 - name: Pair
   url: http://pairnow.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pair
+  slug: pair
+  matched_by: domain
 - name: Uncovr
   url: http://uncovr.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: uncovr
+  in_network: true
+  is_api_provider: true
+  slug: uncovr
+  matched_by: domain
 - name: Tattvam
   url: http://tattvamlabs.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tattvam
+  slug: tattvam
+  matched_by: domain
 - name: Isidor
   url: http://isidor.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: isidor
+  slug: isidor
+  matched_by: domain
 - name: Porters
   url: http://withporters.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: porters
+  slug: porters
+  matched_by: domain
 - name: Andel
   url: http://andel.org
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: andel
+  in_network: true
+  is_api_provider: true
+  slug: andel
+  matched_by: domain
 - name: Omniscient
   url: http://omniscient.so
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: omniscient
+  slug: omniscient
+  matched_by: domain
 - name: La Fraise Pro
   url: http://lafraise.pro
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: la-fraise-pro
+  slug: la-fraise-pro
+  matched_by: domain
 - name: Wexler
   url: http://wexler.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wexler
+  slug: wexler
+  matched_by: domain
 - name: TimeTrace Labs
   url: http://timetracelabs.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: timetrace-labs
+  slug: timetrace-labs
+  matched_by: domain
 - name: Function Health
   url: http://functionhealth.com
   status: unknown
   source: https://seedcamp.com/companies/
   slug: function-health
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: Outpost Bio
   url: http://outpost.bio
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: outpost-bio
+  slug: outpost-bio
+  matched_by: domain
 - name: BioOrbit
   url: http://bioorbit.space
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bioorbit
+  slug: bioorbit
+  matched_by: domain
 - name: Topograph
   url: http://topograph.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: topograph
+  in_network: true
+  is_api_provider: true
+  slug: topograph
+  matched_by: domain
 - name: Tano
   url: http://tano.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: tano
+  in_network: true
+  is_api_provider: true
+  slug: tano
+  matched_by: domain
 - name: Motley
   url: http://motley.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: motley
+  slug: motley
+  matched_by: domain
 - name: Massive Dynamic
   url: http://massive-dynamic.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: massive-dynamic
+  slug: massive-dynamic
+  matched_by: domain
 - name: Memories
   url: http://memories.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: memories
+  in_network: true
+  is_api_provider: true
+  slug: memories
+  matched_by: domain
 - name: Kerys
   url: http://kerys.software
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kerys
+  slug: kerys
+  matched_by: domain
 - name: Murphy
   url: http://getmurphy.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: murphy
+  slug: murphy
+  matched_by: domain
 - name: Kraka
   url: http://gokraka.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kraka
+  slug: kraka
+  matched_by: domain
 - name: Nopan
   url: http://nopan.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nopan
+  in_network: true
+  is_api_provider: true
+  slug: nopan
+  matched_by: domain
 - name: Plakar
   url: http://plakar.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plakar
+  slug: plakar
+  matched_by: domain
 - name: Zenline AI
   url: http://tryzenline.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zenline-ai
+  slug: zenline-ai
+  matched_by: domain
 - name: SE3
   url: http://se3.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: se3
+  slug: se3
+  matched_by: domain
 - name: Doczen
   url: http://doczen.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doczen
+  slug: doczen
+  matched_by: domain
 - name: Volter
   url: http://getvolter.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: volter
+  slug: volter
+  matched_by: domain
 - name: Powernaut
   url: http://powernaut.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: powernaut
+  in_network: true
+  is_api_provider: true
+  slug: powernaut
+  matched_by: domain
 - name: Source.dev
   url: http://source.dev
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sourcedev
+  slug: sourcedev
+  matched_by: domain
 - name: Linkup
   url: http://linkup.so
   status: unknown
@@ -329,191 +368,218 @@ companies:
   url: http://umony.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: umony
+  slug: umony
+  matched_by: domain
 - name: Miru Labs
   url: http://miru-labs.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: miru-labs
+  slug: miru-labs
+  matched_by: domain
 - name: Singulate
   url: http://singulate.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: singulate
+  slug: singulate
+  matched_by: domain
 - name: Ciao
   url: http://meetciao.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ciao
+  slug: ciao
+  matched_by: domain
 - name: Recurse
   url: http://recurse.ml
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: recurse
+  slug: recurse
+  matched_by: domain
 - name: Digital Iron
   url: http://digitaliron.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: digital-iron
+  slug: digital-iron
+  matched_by: domain
 - name: Vaire
   url: http://vaire.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vaire
+  slug: vaire
+  matched_by: domain
 - name: Freqens
   url: http://freqens.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: freqens
+  slug: freqens
+  matched_by: domain
 - name: Botika
   url: http://botika.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: botika
+  slug: botika
+  matched_by: domain
 - name: Enapi
   url: http://enapi.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enapi
+  slug: enapi
+  matched_by: domain
 - name: Kelvin
   url: http://go-kelvin.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kelvin
+  slug: kelvin
+  matched_by: domain
 - name: Nurture
   url: http://nurture.is
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nurture
+  slug: nurture
+  matched_by: domain
 - name: Skyflow
   url: http://flyskyflow.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skyflow
+  slug: skyflow
+  matched_by: name-slug
 - name: Streambased
   url: http://streambased.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: streambased
+  slug: streambased
+  matched_by: domain
 - name: Sable Bio
   url: http://sablebio.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sable-bio
+  slug: sable-bio
+  matched_by: domain
 - name: .txt
   url: http://dottxt.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: txt
+  in_network: true
+  is_api_provider: true
+  slug: dottxt
+  matched_by: domain
 - name: Verax
   url: http://verax.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: verax
+  slug: verax
+  matched_by: domain
 - name: Sunrise
   url: http://sunriserobotics.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sunrise
+  slug: sunrise
+  matched_by: domain
 - name: Emma
   url: http://emma-learn.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: emma
+  slug: emma
+  matched_by: domain
 - name: Knostic
   url: http://knostic.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: knostic
+  in_network: true
+  is_api_provider: true
+  slug: knostic
+  matched_by: domain
 - name: Spektr
   url: http://spektr.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: spektr
+  in_network: true
+  is_api_provider: true
+  slug: spektr
+  matched_by: domain
 - name: Apoha
   url: http://apoha.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: apoha
+  slug: apoha
+  matched_by: domain
 - name: Fifth Dimension
   url: http://fifthdimensionai.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fifth-dimension
+  slug: fifth-dimension-ai
+  matched_by: domain
 - name: Verisian
   url: http://verisian.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: verisian
+  slug: verisian
+  matched_by: domain
 - name: Flagcat
   url: http://flagcat.studio
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flagcat
+  slug: flagcat
+  matched_by: domain
 - name: Enzai
   url: http://enz.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enzai
+  slug: enzai
+  matched_by: domain
 - name: AskUI
   url: http://askui.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: askui
+  in_network: true
+  is_api_provider: true
+  slug: askui
+  matched_by: domain
 - name: Arcjet
   url: http://arcjet.com
   status: unknown
@@ -526,9 +592,10 @@ companies:
   url: http://bookend.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bookend
+  slug: bookend
+  matched_by: domain
 - name: Membrane
   url: http://getmembrane.com
   status: unknown
@@ -549,30 +616,34 @@ companies:
   url: http://pelikan-mobility.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pelikan-mobility
+  slug: pelikan-mobility
+  matched_by: domain
 - name: MotorMia
   url: http://motormia.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: motormia
+  slug: motormia
+  matched_by: domain
 - name: RunWhen
   url: http://runwhen.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: runwhen
+  in_network: true
+  is_api_provider: true
+  slug: runwhen
+  matched_by: domain
 - name: Ferry
   url: http://deployferry.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ferry
+  slug: ferry
+  matched_by: domain
 - name: Dust
   url: http://dust.tt
   status: unknown
@@ -585,9 +656,10 @@ companies:
   url: http://trezy.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trezy
+  slug: trezy
+  matched_by: domain
 - name: Argil
   url: http://argil.ai
   status: unknown
@@ -600,121 +672,138 @@ companies:
   url: http://faks.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: faks
+  slug: faks
+  matched_by: domain
 - name: Plumery
   url: http://plumery.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: plumery
+  slug: plumery
+  matched_by: domain
 - name: UnifiedCRM
   url: http://unifiedcrm.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unifiedcrm
+  slug: unifiedcrm
+  matched_by: domain
 - name: Twig
   url: http://twig.bio
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: twig
+  slug: twig
+  matched_by: domain
 - name: Mimo
   url: http://mimohq.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mimo
+  slug: mimo
+  matched_by: domain
 - name: Cakewalk
   url: http://getcakewalk.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cakewalk
+  slug: cakewalk
+  matched_by: domain
 - name: Kubeark
   url: http://kubeark.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kubeark
+  slug: kubeark
+  matched_by: domain
 - name: DinMo
   url: http://dinmo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dinmo
+  slug: dinmo
+  matched_by: domain
 - name: Light
   url: http://light.inc
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: light
+  in_network: true
+  is_api_provider: true
+  slug: light
+  matched_by: domain
 - name: Webstudio
   url: http://webstudio.is
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: webstudio
+  slug: webstudio
+  matched_by: domain
 - name: Spotlock
   url: http://spotlock.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spotlock
+  slug: spotlock
+  matched_by: domain
 - name: Inovia Bio
   url: http://inovia.bio
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inovia-bio
+  slug: inovia-bio
+  matched_by: domain
 - name: Rerun
   url: http://rerun.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rerun
+  slug: rerun
+  matched_by: domain
 - name: Sidekick
   url: http://sidekickmoney.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sidekick
+  slug: sidekick
+  matched_by: domain
 - name: Crowd.dev
   url: http://crowd.dev
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: crowddev
+  in_network: true
+  is_api_provider: true
+  slug: crowddev
+  matched_by: domain
 - name: Papaya
   url: http://papayadash.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: papaya
+  slug: papaya
+  matched_by: name-slug
 - name: Autone
   url: http://autone.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: autone
+  slug: autone
+  matched_by: domain
 - name: Granular
   url: http://granular-energy.com
   status: unknown
@@ -727,170 +816,194 @@ companies:
   url: http://cyscale.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cyscale
+  slug: cyscale
+  matched_by: domain
 - name: Hubflo
   url: http://hubflo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hubflo
+  in_network: true
+  is_api_provider: true
+  slug: hubflo
+  matched_by: domain
 - name: Klump
   url: http://useklump.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: klump
+  slug: klump
+  matched_by: domain
 - name: Visibly
   url: http://visiblyhq.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: visibly
+  slug: visibly
+  matched_by: domain
 - name: Rasayel
   url: http://rasayel.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: rasayel
+  in_network: true
+  is_api_provider: true
+  slug: rasayel
+  matched_by: domain
 - name: Rayon
   url: http://rayon.design
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rayon
+  slug: rayon
+  matched_by: domain
 - name: Paua
   url: http://pauatech.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: paua
+  slug: paua
+  matched_by: domain
 - name: Join
   url: http://join-stories.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: join
+  slug: join
+  matched_by: domain
 - name: Fabric
   url: http://fabric.so
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fabric
+  slug: fabric
+  matched_by: name-slug
 - name: Those Beyond
   url: http://thosebeyond.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: those-beyond
+  slug: those-beyond
+  matched_by: domain
 - name: Popsink
   url: http://popsink.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: popsink
+  in_network: true
+  is_api_provider: true
+  slug: popsink
+  matched_by: domain
 - name: Fiat Republic
   url: http://fiatrepublic.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fiat-republic
+  slug: fiat-republic
+  matched_by: domain
 - name: Figures
   url: http://figures.hr
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: figures
+  slug: figures
+  matched_by: domain
 - name: Zinc
   url: http://zincwork.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zinc
+  slug: zinc
+  matched_by: domain
 - name: Lindus Health
   url: http://lindushealth.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lindus-health
+  slug: lindushealth
+  matched_by: domain
 - name: Electric Car Scheme
   url: http://electriccarscheme.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: electric-car-scheme
+  slug: electric-car-scheme
+  matched_by: domain
 - name: Fullview
   url: http://fullview.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: fullview
+  in_network: true
+  is_api_provider: true
+  slug: fullview
+  matched_by: domain
 - name: Rodeo
   url: http://gorodeo.app
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rodeo
+  slug: rodeo
+  matched_by: name-slug
 - name: Tilt
   url: http://tilt.app
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tilt
+  slug: tilt
+  matched_by: name-slug
 - name: Outverse
   url: http://outverse.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: outverse
+  slug: outverse
+  matched_by: domain
 - name: Sikoia
   url: http://sikoia.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: sikoia
+  in_network: true
+  is_api_provider: true
+  slug: sikoia
+  matched_by: domain
 - name: Yavin
   url: http://yavin.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yavin
+  slug: yavin
+  matched_by: domain
 - name: CNC24
   url: http://cnc24.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cnc24
+  slug: cnc24
+  matched_by: domain
 - name: Rollee
   url: http://getrollee.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rollee
+  slug: rollee
+  matched_by: domain
 - name: Liveblocks
   url: http://liveblocks.io
   status: unknown
@@ -911,23 +1024,26 @@ companies:
   url: http://foreword.vc
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: foreword-fund
+  slug: foreword-fund
+  matched_by: domain
 - name: Klasha
   url: http://klasha.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: klasha
+  slug: klasha
+  matched_by: domain
 - name: Doorfeed
   url: http://doorfeed.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doorfeed
+  slug: doorfeed
+  matched_by: domain
 - name: Cerbos
   url: http://cerbos.dev
   status: unknown
@@ -940,72 +1056,82 @@ companies:
   url: http://gdevelop.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gdevelop
+  slug: gdevelop
+  matched_by: domain
 - name: Vespucci
   url: http://vespuccianalytics.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vespucci
+  slug: vespucci
+  matched_by: domain
 - name: Vidjet
   url: http://vidjet.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vidjet
+  slug: vidjet
+  matched_by: name-slug
 - name: HelloFlow
   url: http://helloflow.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: helloflow
+  slug: helloflow
+  matched_by: domain
 - name: Manara
   url: http://manara.tech
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: manara
+  slug: manara
+  matched_by: domain
 - name: Julienne Bruno
   url: http://juliennebruno.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: julienne-bruno
+  slug: julienne-bruno
+  matched_by: domain
 - name: Buynomics
   url: http://buynomics.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: buynomics
+  slug: buynomics
+  matched_by: domain
 - name: Yonder
   url: http://yonder.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: yonder
+  slug: yonder
+  matched_by: domain
 - name: Vitesse
   url: http://vitesseautomation.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vitesse
+  slug: vitesse
+  matched_by: domain
 - name: Treecard
   url: http://treecard.org
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: treecard
+  slug: treecard
+  matched_by: domain
 - name: Baserow
   url: http://baserow.io
   status: unknown
@@ -1018,23 +1144,26 @@ companies:
   url: http://teamsurfboard.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: surfboard
+  slug: surfboard
+  matched_by: domain
 - name: OneShot
   url: http://oneshot.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oneshot
+  slug: oneshot
+  matched_by: domain
 - name: LiveFlow
   url: http://liveflow.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liveflow
+  slug: liveflow
+  matched_by: domain
 - name: Blobr
   url: http://blobr.io
   status: unknown
@@ -1055,72 +1184,82 @@ companies:
   url: http://flow-ai.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flow-ai
+  slug: flow-ai
+  matched_by: domain
 - name: Limbo
   url: http://limborevolution.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: limbo
+  slug: limbo
+  matched_by: domain
 - name: Gardin
   url: http://gardin.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gardin
+  slug: gardin
+  matched_by: name-slug
 - name: Picnic
   url: http://picnic.photos
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: picnic
+  slug: picnic
+  matched_by: domain
 - name: Weavr
   url: http://weavr.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: weavr
+  in_network: true
+  is_api_provider: true
+  slug: weavr
+  matched_by: domain
 - name: Paid
   url: http://paid.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: paid
+  in_network: true
+  is_api_provider: true
+  slug: paid
+  matched_by: name-slug
 - name: Vanilla Steel
   url: http://vanillasteel.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vanilla-steel
+  slug: vanilla-steel
+  matched_by: domain
 - name: Rosita
   url: http://rositalongevity.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rosita
+  slug: rosita
+  matched_by: domain
 - name: Utopia
   url: http://utopia.app
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: utopia
+  slug: utopia
+  matched_by: domain
 - name: Certifaction
   url: http://certifaction.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: certifaction
+  in_network: true
+  is_api_provider: true
+  slug: certifaction
+  matched_by: domain
 - name: Meilisearch
   url: http://meilisearch.com
   status: unknown
@@ -1133,16 +1272,18 @@ companies:
   url: http://toothfairyapp.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tooth-fairy
+  slug: tooth-fairy
+  matched_by: domain
 - name: tl;dv
   url: http://tldv.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: tl-dv
+  in_network: true
+  is_api_provider: true
+  slug: tl-dv
+  matched_by: domain
 - name: Sylvera
   url: http://sylvera.com
   status: unknown
@@ -1155,23 +1296,26 @@ companies:
   url: http://sensestreet.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sense-street
+  slug: sense-street
+  matched_by: domain
 - name: MedAll
   url: http://medall.org
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medall
+  slug: medall
+  matched_by: domain
 - name: Jelly
   url: http://getjelly.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jelly
+  slug: jelly
+  matched_by: domain
 - name: QuestDB
   url: http://questdb.com
   status: unknown
@@ -1184,23 +1328,26 @@ companies:
   url: http://thanksben.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ben
+  slug: ben
+  matched_by: domain
 - name: Resistant AI
   url: http://resistant.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: resistant-ai
+  in_network: true
+  is_api_provider: true
+  slug: resistant-ai
+  matched_by: domain
 - name: Humanity
   url: http://humanity.health
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: humanity
+  slug: humanity
+  matched_by: name-slug
 - name: Primer
   url: http://primer.io
   status: unknown
@@ -1213,51 +1360,58 @@ companies:
   url: http://tickitto.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: tickitto
+  in_network: true
+  is_api_provider: true
+  slug: tickitto
+  matched_by: domain
 - name: Agamon Health
   url: http://agamonhealth.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: agamon-health
+  slug: agamon-health
+  matched_by: domain
 - name: Salv
   url: http://salv.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: salv
+  in_network: true
+  is_api_provider: true
+  slug: salv
+  matched_by: domain
 - name: vyne
   url: http://payvyne.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vyne
+  slug: vyne
+  matched_by: domain
 - name: Boundless
   url: http://boundlesshq.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: boundless
+  slug: boundless
+  matched_by: name-slug
 - name: Martie
   url: http://martie.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: martie
+  slug: martie
+  matched_by: domain
 - name: Supercede
   url: http://supercede.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: supercede
+  slug: supercede
+  matched_by: domain
 - name: Hopin
   url: http://hopin.com
   status: unknown
@@ -1270,37 +1424,42 @@ companies:
   url: http://kitch.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kitch
+  slug: kitch
+  matched_by: name-slug
 - name: Pento
   url: http://pento.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pento
+  slug: pento
+  matched_by: domain
 - name: hi.health
   url: http://hi.health
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hihealth
+  slug: hihealth
+  matched_by: name-slug
 - name: PortalOne
   url: http://portalone.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: portalone
+  slug: portalone
+  matched_by: domain
 - name: Stotles
   url: http://stotles.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stotles
+  slug: stotles
+  matched_by: domain
 - name: Rossum
   url: http://rossum.ai
   status: unknown
@@ -1313,51 +1472,58 @@ companies:
   url: http://graphy.app
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: graphy
+  in_network: true
+  is_api_provider: true
+  slug: graphy
+  matched_by: domain
 - name: StudentFinance
   url: http://studentfinance.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: studentfinance
+  slug: studentfinance
+  matched_by: domain
 - name: Uncapped
   url: http://weareuncapped.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: uncapped
+  in_network: true
+  is_api_provider: true
+  slug: uncapped
+  matched_by: domain
 - name: Dreamdata
   url: http://dreamdata.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dreamdata
+  slug: dreamdata
+  matched_by: domain
 - name: Peppy
   url: http://peppy.health
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peppy
+  slug: peppy
+  matched_by: domain
 - name: LIV
   url: http://liv.tv
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: liv
+  slug: liv
+  matched_by: domain
 - name: Machinations
   url: http://machinations.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: machinations
+  slug: machinations
+  matched_by: domain
 - name: Synthesia
   url: http://synthesia.io
   status: unknown
@@ -1370,16 +1536,18 @@ companies:
   url: http://skew.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: skew
+  slug: skew
+  matched_by: domain
 - name: Itch
   url: http://itchpet.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: itch
+  slug: itch
+  matched_by: domain
 - name: Orbital
   url: http://orbital.tech
   status: unknown
@@ -1392,72 +1560,82 @@ companies:
   url: http://nodeslinks.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nodes-and-links
+  slug: nodes-and-links
+  matched_by: domain
 - name: CLUBZERO
   url: http://clubzero.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clubzero
+  slug: clubzero
+  matched_by: domain
 - name: Metaview
   url: http://metaview.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: metaview
+  slug: metaview
+  matched_by: domain
 - name: Passbase
   url: http://passbase.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: passbase
+  in_network: true
+  is_api_provider: true
+  slug: passbase
+  matched_by: domain
 - name: Spill
   url: http://spill.chat
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spill
+  slug: spill
+  matched_by: domain
 - name: Speechly
   url: http://speechly.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: speechly
+  slug: speechly
+  matched_by: domain
 - name: Gameye
   url: http://gameye.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: gameye
+  in_network: true
+  is_api_provider: true
+  slug: gameye
+  matched_by: domain
 - name: Millimetric
   url: http://millimetric.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: millimetric
+  in_network: true
+  is_api_provider: true
+  slug: millimetric
+  matched_by: domain
 - name: Reply.ai
   url: http://reply.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: replyai
+  slug: replyai
+  matched_by: domain
 - name: Ezra
   url: http://ezra.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ezra
+  slug: ezra
+  matched_by: domain
 - name: Nordigen
   url: http://nordigen.com
   status: unknown
@@ -1470,44 +1648,50 @@ companies:
   url: http://elephant.healthcare
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: elephant-healthcare
+  slug: elephant-healthcare
+  matched_by: domain
 - name: Risk Ledger
   url: http://riskledger.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: risk-ledger
+  slug: risk-ledger
+  matched_by: domain
 - name: Back
   url: http://backhq.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: back
+  slug: back
+  matched_by: domain
 - name: superscript
   url: http://gosuperscript.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: superscript
+  slug: superscript
+  matched_by: domain
 - name: Vitrolabs
   url: http://vitrolabsinc.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vitrolabs
+  slug: vitrolabs
+  matched_by: domain
 - name: Parla
   url: http://myparla.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: parla
+  slug: parla
+  matched_by: domain
 - name: Ramp
   url: http://rampnetwork.com
   status: unknown
@@ -1520,58 +1704,66 @@ companies:
   url: http://sanogenetics.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sano
+  slug: sano
+  matched_by: domain
 - name: Peony
   url: http://peony.ink
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peony
+  slug: peony
+  matched_by: domain
 - name: Synthesized
   url: http://synthesized.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: synthesized
+  slug: synthesized
+  matched_by: domain
 - name: Griffin
   url: http://griffin.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: griffin
+  in_network: true
+  is_api_provider: true
+  slug: griffin
+  matched_by: domain
 - name: Harbr
   url: http://harbrdata.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: harbr
+  slug: harbr
+  matched_by: domain
 - name: Maze
   url: http://maze.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: maze
+  slug: maze
+  matched_by: domain
 - name: THIS
   url: http://this.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: this
+  slug: this
+  matched_by: domain
 - name: Veratrak
   url: http://veratrak.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: veratrak
+  slug: veratrak
+  matched_by: domain
 - name: Fluidstack
   url: http://fluidstack.io
   status: unknown
@@ -1584,30 +1776,34 @@ companies:
   url: http://doctorly.de
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: doctorly
+  slug: doctorly
+  matched_by: domain
 - name: Sweatcoin
   url: http://sweatco.in
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sweatcoin
+  slug: sweatcoin
+  matched_by: domain
 - name: Pace
   url: http://paceup.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pace
+  slug: pace
+  matched_by: domain
 - name: StepLadder
   url: http://joinstepladder.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: stepladder
+  slug: stepladder
+  matched_by: domain
 - name: PassFort
   url: http://passfort.com
   status: unknown
@@ -1620,163 +1816,186 @@ companies:
   url: http://seedlegals.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: seedlegals
+  slug: seedlegals
+  matched_by: domain
 - name: Flow
   url: http://flowengineering.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flow
+  slug: flow-engineering
+  matched_by: domain
 - name: 9fin
   url: http://9fin.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 9fin
+  slug: 9fin
+  matched_by: domain
 - name: Nevercode
   url: http://codemagic.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nevercode
+  in_network: true
+  is_api_provider: true
+  slug: nevercode
+  matched_by: domain
 - name: Bloomsbury
   url: http://bloomsbury.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bloomsbury
+  slug: bloomsbury
+  matched_by: domain
 - name: Zamna
   url: http://zamna.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zamna
+  in_network: true
+  is_api_provider: true
+  slug: zamna
+  matched_by: domain
 - name: Labstep
   url: http://labstep.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: labstep
+  slug: labstep
+  matched_by: domain
 - name: Wevat
   url: http://wevat.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wevat
+  slug: wevat
+  matched_by: domain
 - name: CyberSmart
   url: http://cybersmart.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cybersmart
+  slug: cybersmart
+  matched_by: domain
 - name: Cuvva
   url: http://cuvva.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cuvva
+  slug: cuvva
+  matched_by: domain
 - name: Telleroo
   url: http://telleroo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: telleroo
+  slug: telleroo
+  matched_by: domain
 - name: Fraugster
   url: http://fraugster.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fraugster
+  slug: fraugster
+  matched_by: domain
 - name: Sunlight
   url: http://sunlight.is
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sunlight
+  slug: sunlight
+  matched_by: domain
 - name: Legit Patents
   url: http://legit.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: legit-patents
+  slug: legit-patents
+  matched_by: name-slug
 - name: viz.ai
   url: http://viz.ai
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vizai
+  slug: vizai
+  matched_by: domain
 - name: Libryo
   url: http://libryo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: libryo
+  slug: libryo
+  matched_by: domain
 - name: CRU Kafe
   url: http://crukafe.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cru-kafe
+  slug: cru-kafe
+  matched_by: domain
 - name: Wave
   url: http://wavexr.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wave
+  slug: wave
+  matched_by: domain
 - name: Reposit
   url: http://reposit.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reposit
+  slug: reposit
+  matched_by: domain
 - name: KareInn
   url: http://kareinn.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kareinn
+  slug: kareinn
+  matched_by: domain
 - name: Trail
   url: http://trailapp.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: trail
+  in_network: true
+  is_api_provider: true
+  slug: trail
+  matched_by: domain
 - name: Thriva
   url: http://thriva.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: thriva
+  in_network: true
+  is_api_provider: true
+  slug: thriva
+  matched_by: domain
 - name: Alterest
   url: http://alterest.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: alterest
+  slug: alterest
+  matched_by: domain
 - name: Juro
   url: http://juro.com
   status: unknown
@@ -1789,9 +2008,10 @@ companies:
   url: http://beeline.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beeline
+  slug: beeline
+  matched_by: domain
 - name: Cronofy
   url: http://cronofy.com
   status: unknown
@@ -1804,9 +2024,10 @@ companies:
   url: http://kasko.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kasko
+  slug: kasko
+  matched_by: domain
 - name: Charlie HR
   url: http://charliehr.com
   status: unknown
@@ -1819,86 +2040,98 @@ companies:
   url: http://ai-build.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ai-build
+  slug: ai-build
+  matched_by: domain
 - name: Much Better Adventures
   url: http://muchbetteradventures.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: much-better-adventures
+  slug: much-better-adventures
+  matched_by: domain
 - name: SwiftShift
   url: http://swiftshift.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: swiftshift
+  slug: swiftshift
+  matched_by: domain
 - name: Fleksy
   url: http://fleksy.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fleksy
+  slug: fleksy
+  matched_by: domain
 - name: TalkPush
   url: http://talkpush.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: talkpush
+  in_network: true
+  is_api_provider: true
+  slug: talkpush
+  matched_by: domain
 - name: WealthKernel
   url: http://wealthkernel.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wealthkernel
+  slug: wealthkernel
+  matched_by: domain
 - name: Getagent
   url: http://getagent.co.uk
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: getagent
+  slug: getagent
+  matched_by: domain
 - name: Priori Data
   url: http://prioridata.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: priori-data
+  slug: priori-data
+  matched_by: domain
 - name: JOBDOH
   url: http://jobdoh.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: jobdoh
+  slug: jobdoh
+  matched_by: domain
 - name: Pollen
   url: http://pollentechnologies.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pollen
+  slug: pollen
+  matched_by: domain
 - name: Edgefolio
   url: http://edgefolio.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: edgefolio
+  slug: edgefolio
+  matched_by: domain
 - name: Traderion
   url: http://traderion.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: traderion
+  slug: traderion
+  matched_by: domain
 - name: UiPath
   url: http://uipath.com
   status: unknown
@@ -1911,93 +2144,106 @@ companies:
   url: http://medefer.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: medefer
+  slug: medefer
+  matched_by: domain
 - name: Land Insight
   url: http://land.tech
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: land-insight
+  in_network: true
+  is_api_provider: true
+  slug: land-insight
+  matched_by: domain
 - name: Curve
   url: http://curve.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: curve
+  slug: curve
+  matched_by: domain
 - name: Lateral
   url: http://lateral.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lateral
+  slug: lateral
+  matched_by: domain
 - name: Branchtrack
   url: http://branchtrack.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: branchtrack
+  slug: branchtrack
+  matched_by: domain
 - name: Reinfer
   url: http://reinfer.io
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reinfer
+  slug: reinfer
+  matched_by: domain
 - name: Monese
   url: http://monese.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: monese
+  slug: monese
+  matched_by: domain
 - name: Spoke
   url: http://spoke-london.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: spoke
+  slug: spoke
+  matched_by: domain
 - name: Pointy
   url: http://pointy.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pointy
+  slug: pointy
+  matched_by: domain
 - name: Trussle
   url: http://trussle.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: trussle
+  slug: trussle
+  matched_by: name-slug
 - name: Marcopolo Learning
   url: http://marcopololearning.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marcopolo-learning
+  slug: marcopolo-learning
+  matched_by: domain
 - name: Hubble
   url: http://hubblehq.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hubble
+  slug: hubble
+  matched_by: domain
 - name: propertypartner
   url: http://propertypartner.co
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: propertypartner
+  slug: propertypartner
+  matched_by: name-slug
 - name: Lodgify
   url: http://lodgify.com
   status: unknown
@@ -2010,30 +2256,34 @@ companies:
   url: http://reedsy.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reedsy
+  slug: reedsy
+  matched_by: domain
 - name: BridgeU
   url: http://bridge-u.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bridgeu
+  slug: bridgeu
+  matched_by: domain
 - name: Satago
   url: http://satago.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: satago
+  slug: satago
+  matched_by: domain
 - name: Oradian
   url: http://oradian.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oradian
+  slug: oradian
+  matched_by: domain
 - name: Elliptic
   url: http://elliptic.co
   status: unknown
@@ -2046,23 +2296,26 @@ companies:
   url: http://tanaza.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tanaza
+  slug: tanaza
+  matched_by: domain
 - name: Apperio
   url: http://apperio.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: apperio
+  in_network: true
+  is_api_provider: true
+  slug: apperio
+  matched_by: domain
 - name: Fishbrain
   url: http://fishbrain.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fishbrain
+  slug: fishbrain
+  matched_by: domain
 - name: Countly
   url: http://countly.com
   status: unknown
@@ -2083,9 +2336,10 @@ companies:
   url: http://james.finance
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: james-finance
+  slug: james-finance
+  matched_by: domain
 - name: Codeship
   url: http://codeship.com
   status: unknown
@@ -2098,23 +2352,26 @@ companies:
   url: http://minubo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: minubo
+  in_network: true
+  is_api_provider: true
+  slug: minubo
+  matched_by: domain
 - name: Hole19
   url: http://hole19golf.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hole19
+  slug: hole19
+  matched_by: domain
 - name: SayDuck
   url: http://sayduck.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sayduck
+  slug: sayduck
+  matched_by: domain
 - name: Antavo
   url: http://antavo.com
   status: unknown
@@ -2127,16 +2384,18 @@ companies:
   url: http://24symbols.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 24symbols
+  slug: 24symbols
+  matched_by: domain
 - name: Qminder
   url: http://qminder.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: qminder
+  in_network: true
+  is_api_provider: true
+  slug: qminder
+  matched_by: domain
 - name: Wise
   url: http://wise.com
   status: unknown
@@ -2149,125 +2408,143 @@ companies:
   url: http://holvi.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: holvi
+  in_network: true
+  is_api_provider: true
+  slug: holvi
+  matched_by: domain
 - name: Grabcad
   url: http://grabcad.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: grabcad
+  slug: grabcad
+  matched_by: domain
 - name: Profitero
   url: http://profitero.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: profitero
+  slug: profitero
+  matched_by: domain
 - name: EDITED
   url: http://edited.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: edited
+  slug: edited
+  matched_by: domain
 - name: Scoville
   url: http://goscoville.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scoville
+  slug: scoville
+  matched_by: domain
 - name: Erply
   url: http://erply.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: erply
+  in_network: true
+  is_api_provider: true
+  slug: erply
+  matched_by: domain
 - name: Codility
   url: http://codility.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: codility
+  slug: codility
+  matched_by: domain
 - name: Platogo
   url: http://platogo.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: platogo
+  slug: platogo
+  matched_by: domain
 - name: Patients Know Best
   url: http://patientsknowbest.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: patients-know-best
+  slug: patientsknowbest
+  matched_by: domain
 - name: Server Density
   url: http://serverdensity.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: server-density
+  slug: server-density
+  matched_by: domain
 - name: toksta
   url: http://toksta.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: toksta
+  slug: toksta
+  matched_by: domain
 - name: Evercontact
   url: http://evercontact.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: evercontact
+  slug: evercontact
+  matched_by: domain
 - name: Basekit
   url: http://basekit.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: basekit
+  slug: basekit
+  matched_by: domain
 - name: Talasim
   url: http://jeeran.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: talasim
+  slug: jeeran
+  matched_by: domain
 - name: ubervu
   url: http://ubervu.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ubervu
+  slug: ubervu
+  matched_by: domain
 - name: Zemanta
   url: http://zemanta.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zemanta
+  slug: zemanta
+  matched_by: domain
 - name: MyBuilder
   url: http://mybuilder.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mybuilder
+  slug: mybuilder
+  matched_by: domain
 - name: rentmineonline
   url: http://rentmineonline.com
   status: unknown
   source: https://seedcamp.com/companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rentmineonline
+  slug: rentmineonline
+  matched_by: domain
