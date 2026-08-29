@@ -15,6 +15,17 @@ description: >-
   including publicly listed UiPath and Wise and unicorns such as Revolut,
   Synthesia, Sorare, Pleo, wefox, and viz.ai. Seedcamp Investment Management LLP
   is authorised and regulated by the UK Financial Conduct Authority.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
