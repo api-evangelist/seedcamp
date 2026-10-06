@@ -50,10 +50,12 @@ tags:
   - Europe
   - London
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://seedcamp.com/feed/
+    type: BlogRSS
   - type: Website
     url: https://seedcamp.com/
   - type: Portfolio
